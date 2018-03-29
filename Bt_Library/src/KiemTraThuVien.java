@@ -18,7 +18,7 @@ public class KiemTraThuVien {
 //		
 //		System.out.println(ca.get(ca.DATE) + "/" + (ca.get(ca.MONTH)+1) + "/" + ca.get(ca.YEAR));
 //		
-//		System.out.println(ca.getTime());
+
 //		
 //		System.out.println(date.toString());
 //		
